@@ -5,7 +5,7 @@ Because Guessing Passwords the Old Way is SO Last Century! So, here is the Assau
 
 Ever wondered what it's like to brute force your way through passwords ? Well, you're in the right place! **PasswordAssaulter** is here to show you how brute force password testing works—educationally, of course! 🚀
 
-But wait—before you unleash your inner "1337 H4x0r," remember: **Ethics are key, my friend! Use this responsibly, or karma might just brute force you back!**
+But wait—before you unleash your inner "1337 H4x0r," remember: **Use this responsibly, or karma might just brute force you back!**
 
 ---
 
