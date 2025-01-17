@@ -211,8 +211,11 @@ This script is a demonstration of how brute force password testing can be automa
 
 ## The Relentless KeySlammer
 
-[Assault Preview](https://img.youtube.com/vi/rNanwJqjVZw/hqdefault.jpg)](https://youtu.be/rNanwJqjVZw)
+[![PasswordAssault Preview](https://img.youtube.com/vi/rNanwJqjVZw/hqdefault.jpg)](https://youtu.be/rNanwJqjVZw)
 
+<a href="https://youtu.be/rNanwJqjVZw">
+    <img src="https://img.youtube.com/vi/rNanwJqjVZw/hqdefault.jpg" alt="PasswordAssault Preview" width="600" height="350">
+</a>
 
 ## 📩 Contact
 
