@@ -122,7 +122,7 @@ Boom! Problem solved.
 
 This script is here for fun, learning, and testing YOUR systems. Don't go all "Mr. Robot" with it. Use responsibly, laugh at your failed attempts, and always remember: strong passwords save lives (okay, maybe not lives, but definitely accounts).
 
-Happy spraying, and may the (legal) hacking gods be with you! 🌟
+Happy assaulting, and may the (legal) hacking gods be with you! 🌟
 
 ---
 
